@@ -1,0 +1,85 @@
+<div class="container jumbotron">
+
+  <div class="row"> <!-- START Of Row-1 -->   
+      <div class="col-sm-4" id="Drosh1"><h1 class=
+                      "text-center" >Welcome</h1>
+      </div>  
+      <div class="col-sm-4" id="Drosh2"><h1 class=
+                            "text-center">to</h1>
+      </div>
+      <div class="col-sm-4" id="Drosh3"><h1 class=
+                       "text-center">Armenia</h1>
+      </div>
+  </div><!-- End Of Row-1 -->
+
+  <div class="row"><!-- START Of Row-2 -->
+   <div class="col-12">
+    <p class="text-center lead font-italic">
+      Country where I   Am
+    </p>
+   </div>   
+  </div><!-- End Of Row-2 -->
+
+  <div class="row bg-light" ><!--START Of Row-3-->
+
+   <div class="col-12">
+<img class="img-fluid img-thumbnail" src="http://www.tatev.com/admin/uploads/gallery/package/433033(2).jpg"    alt="Armenia"/>
+    </div>
+
+   <div class="col-12">
+      <p class="text-center">
+       The Tatev Monastery complex and its fortifications 
+      </p>
+   </div>
+
+
+</div><!--End Of Row-3-->
+<br/>
+<br/>
+<br/>
+<div class="row"><!-- START Of Row-4 -->
+ <div class="col"> <h2 class="text-center">Here is a few interesting things about Armenia
+</h2>
+
+<div class="row ">
+<div class="col-*-* col-*-offset-2">
+<ul>
+<li class="text-left">It is located in the <strong>Alps-Himalayas gosincline</strong> almost in the center
+      of it and has no marine borders,<br/> the territory of the republic is
+      located 165 km from the Black Sea, from the Caspian Sea 190 km,<br/>
+      from the Mediterranean Sea - 750 km, and from the Persian Gulf 
+      more than 1000 km.
+</li>
+
+
+<li class="text-left"> The Republic of Armenia is the first state in the world that adopt Christianity as a state religion <strong>(301 y. )</strong>.
+</li>
+<li class="text-left"> The highest point is the northern peak of Mount Aragats <strong>4090
+m</strong>, and the lowest stations are located in<br/> the Debed Valley (Bagratashen village) and the bottom
+in the south-east, 375m in the Arax valley. Let's<br/> add that the surface is <strong>40%
+Located at a height of more than 2000 m</strong>.</li>
+<li class="text-left"><strong>82%</strong> of the area is volcanic mountain slopes isolatedvolcanic cone mounds, folding mountain ranges,<br/> and only <strong>18%</strong> of the plains,which, without exception, are at altitudes above <strong>500 m.</strong></li>
+<li class="text-left"> The capital of the Republic of Armenia, Yerevan (Erebuni), was founded by Argishti I, the son of King<br/> Menua,  Almost <strong>2800</strong> years ago in 782 BCE.
+</li>
+<li class="text-left"> The original native Armenian name for the country was <strong>Հայք (Hayq)</strong>, however it is currently rarely used.</li>
+<li class="text-left"> The name has traditionally been derived from Hayq (Հայկ), the legendary patriarch of the Armenians<br/> and a great-great-grandson of <strong>Noah</strong>, who, according to the 5th-century AD author Moses of Chorene,<br> defeated the Babylonian king Bel  and established his nation in the Ararat region</li>
+<li class="text-left"> The exonym <strong>Armenia</strong> is attested in the Old Persian Behistun Inscription (515 BC) as Armina . The<br/> Ancient Greek terms Ἀρμενία (Armenía) and Ἀρμένιοι (Arménioi, "Armenians") are first mentioned by<br/> Hecataeus of Miletus (c. 550 BC – c. 476 BC). Xenophon, a Greek general serving in some of the Persian<br/> expeditions, describes many aspects of Armenian village life and hospitality.</li>
+<li class="text-left"> Armenia lies in the highlands surrounding the mountains of Ararat. There is evidence of an early <br/>civilisation in Armenia in the Bronze Age and earlier, dating to about <strong>4000 BC</strong>. Archaeological surveys in<br/> 2010 and 2011 at the Areni-1 cave complex have resulted in the discovery of the world's earliest known<br/> leather shoe, skirt, and wine-producing facility</li>
+<li class="text-left">The Temple of Garni (Armenian: Գառնու տաճար, Gaṙnu tačar, [ˈgɑrnu ˈtɑtʃɑʁ])[a] is the <strong>only standing</strong> <br/> Greco-Roman colonnaded building in Armenia and the former Soviet Union. An Ionic temple located<br/> in the village of Garni, Armenia, it is the best-known structure and symbol of pre-Christian Armenia.<br/>
+The structure was probably built by king Tiridates I in the first century AD as a temple to the sun god<br/> Mihr. After Armenia's conversion to Christianity in the early fourth century, it was converted into a royal<br/> summer house of Khosrovidukht, the sister of Tiridates III. According to some scholars it was not a<br/> temple but a tomb and thus survived the universal destruction of pagan structures. It collapsed in a 1679<br/> earthquake. Renewed interest in the 19th century led to excavations at the site in early and mid-20th <br/>century and its eventual reconstruction between 1969 and 1975. It is one of the main tourist attractions in<br/> Armenia and the central shrine of Armenian neopaganism.</li>
+
+</ul>
+</div>
+</div>
+<br/>
+<br/>
+  <blockquote class="blockquote">
+    <p class="text-info">In my memory, a man who has toured half the world, saw Cairo and Salzburg, London<br/> and Venice, there is no more poetic image than Yerevan ,at the foot of the mountain Ararat .</p>
+    <footer class="blockquote-footer"> <a href="https://en.wikipedia.org/wiki/Lord_Byron" target="_blank">George Gordon Byron</a></footer>
+  </blockquote>
+<h3 class="text-center">If you have time you should visit <a href="http://kayqer.am/hy/travel/travel-agencies/" target="_blank">Armenia</a></h3>
+
+
+</div><!--End Of Row-4 -->
+
+</div><!--Verjin DIv_na -->
